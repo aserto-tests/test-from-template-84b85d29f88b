@@ -1,0 +1,3 @@
+server: registry.prod.aserto.com
+username: alice-tenant-64a1d9b47f1b08ef
+repo: alice-tenant-64a1d9b47f1b08ef/alice-repo
